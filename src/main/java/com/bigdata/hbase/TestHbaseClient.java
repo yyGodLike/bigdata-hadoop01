@@ -102,7 +102,7 @@ public class TestHbaseClient {
 	
 	
 	public static void main(String[] args) throws Exception {
-		System.out.println("1");
+		System.out.println("12");
 		HTable table = getTable("hbase1:t1");
 		getData(table);
 		putData(table);
