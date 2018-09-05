@@ -58,5 +58,7 @@
 			<artifactId>hbase-client</artifactId>
 			<version>0.98.6-hadoop2</version>
 		</dependency>
+		
+		
 	</dependencies>
 </project>
